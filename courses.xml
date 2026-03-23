@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<courses>
+    <course>
+        <title>Web Development</title>
+        <instructor>John</instructor>
+        <price>2000</price>
+        <rating>4</rating>
+    </course>
+
+    <course>
+        <title>Python</title>
+        <instructor>Alice</instructor>
+        <price>1500</price>
+        <rating>5</rating>
+    </course>
+</courses>
